@@ -1,5 +1,8 @@
 # silas-math
 
+## About
+A basic frontend web app for a student to brush up on their math skills before entering the 3rd grade.
+
 ## To Do
 -[ ] Lots of refactoring
 -[ ] Layout 
